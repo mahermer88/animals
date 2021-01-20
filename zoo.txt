@@ -2,3 +2,5 @@ Include 3 animals found in a zoo:
 1- Panda
 2-Monkeys
 3-Koala
+4-Tiger
+5- Lion
